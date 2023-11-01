@@ -44,7 +44,7 @@ export default function Home() {
                 >
                   <polyline points="20 6 9 17 4 12" />
                 </svg>
-                Automate standup, grooming, and retrospective meetings.
+                Automate the collection and display of updates from each team member.
               </li>
               <li>
                 <svg
@@ -61,7 +61,7 @@ export default function Home() {
                 >
                   <polyline points="20 6 9 17 4 12" />
                 </svg>
-                Monitor your system's status with push alerts.
+                Monitor your system's status with push alerts integration.
               </li>
             </ul>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
